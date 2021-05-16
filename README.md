@@ -7,3 +7,4 @@ Analysis of Olympic dataset using Pandas and Numpy libraries in Python to answer
 * What year brought the largest medal haul for the top ten performing countries?
 * Has there been an increase in the number of events since inception of the modern Olympics?
 
+Breakdown of how each question was answered provided here https://ianainslie.uk/olympic-medal-table-data-analysis/
